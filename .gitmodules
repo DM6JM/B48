@@ -7,3 +7,6 @@
 [submodule "CycloneSSL"]
 	path = CycloneSSL
 	url = https://github.com/Oryx-Embedded/CycloneSSL.git
+[submodule "CycloneCommon"]
+	path = CycloneCommon
+	url = https://github.com/Oryx-Embedded/Common.git
