@@ -1,0 +1,9 @@
+[submodule "CycloneTCP"]
+	path = CycloneTCP
+	url = https://github.com/Oryx-Embedded/CycloneTCP.git
+[submodule "CycloneCRYPTO"]
+	path = CycloneCRYPTO
+	url = https://github.com/Oryx-Embedded/CycloneCRYPTO.git
+[submodule "CycloneSSL"]
+	path = CycloneSSL
+	url = https://github.com/Oryx-Embedded/CycloneSSL.git
